@@ -1,0 +1,48 @@
+.bekolli{
+    margin: auto;
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+    margin-left: -60px;
+  }
+  .blendi{
+    margin:auto;
+    text-align: right; 
+  }
+  .testo{
+    text-align: center;
+    
+    
+  }
+  .quadrato{
+    background-color: trasparent;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    z-index: 5px;
+  }
+  
+    }
+  .figlio2{
+    margin-top: 120px;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 620px;
+    text-align: justify;
+    margin-left: 20px;
+  }
+  .max{
+    background-image: url('https://www.gruppocontas.it/wp-content/uploads/2017/10/header_imprese_edili.jpg');
+    /*background-color: rgba(0,0,0,0.2);*/
+    
+    background-size: fill;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+  }
+  .filtro{
+    margin-left: 100px;
+    background-origin: content-box;
+   background-color: rgba(0,0,0,-0.9);
+  }
